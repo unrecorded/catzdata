@@ -1,0 +1,27 @@
+{
+  "name": "Catz #8",
+  "description": "Introducing 'Catz' - a collection of randomly generated NFT cats! Each 'Catz' is a unique digital collectible, featuring adorable and quirky cat characters. With a variety of colors, patterns, and expressions, every Catz has its own charm, making them perfect for cat lovers and NFT enthusiasts alike. Whether you're collecting for fun or investment, there's a Catz waiting to brighten your digital world!",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "purple"
+    },
+    {
+      "trait_type": "First body modifer",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Second body modifier",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Lines",
+      "value": "olive"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/unrecorded/catzdata/main/data/7.jpg"
+}
